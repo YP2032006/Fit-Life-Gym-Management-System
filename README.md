@@ -52,7 +52,7 @@ Installation Steps
 
 Clone the repository
 
-bash   git clone https://github.com/yashpatel/fitlife-gym-management.git
+bash   git clone https://github.com/YP2032006/fit-life-gym-management.git
    cd fitlife-gym-management
 
 Open in NetBeans
