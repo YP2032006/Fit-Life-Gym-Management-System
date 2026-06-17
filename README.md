@@ -32,7 +32,6 @@ Git for version control
 🔐 Secure Authentication - Session-based login with validation and timeout protection
 👥 Member Management - View and search gym member records in real-time
 💾 Database Integration - Direct connection to IBM i (AS/400) using JDBC
-📱 Responsive Design - Mobile-friendly interface that works on all devices
 ♻️ Reusable Components - Modular JSP includes for navigation, headers, and footers
 🛡️ Security Features - SQL injection prevention with prepared statements
 ⚡ Dynamic Content - Real-time data rendering without page refreshes
@@ -123,7 +122,6 @@ The biggest challenge was understanding IBM i's unique database structure and en
  Generate PDF reports for member data
  Add advanced search with filters (by membership type, status, etc.)
  Create dashboard with analytics and charts
- Build REST API for mobile app integration
  Add email notifications for membership renewals
  Implement role-based access control (admin vs. staff)
 
